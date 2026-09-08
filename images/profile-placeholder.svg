@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 600" role="img" aria-labelledby="title desc">
+  <title id="title">Profile photo placeholder</title>
+  <desc id="desc">A simple placeholder avatar with the initials NC.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#dbeafe"/>
+      <stop offset="1" stop-color="#eef2ff"/>
+    </linearGradient>
+  </defs>
+  <rect width="600" height="600" rx="300" fill="url(#bg)"/>
+  <circle cx="300" cy="220" r="105" fill="#bfdbfe"/>
+  <path d="M110 535c18-122 92-190 190-190s172 68 190 190" fill="#bfdbfe"/>
+  <circle cx="300" cy="300" r="282" fill="none" stroke="#2563eb" stroke-opacity="0.18" stroke-width="16"/>
+  <text x="300" y="325" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="78" font-weight="700" fill="#1d4ed8">NC</text>
+</svg>

@@ -6,7 +6,7 @@ A responsive personal portfolio built with **HTML, custom CSS, Bootstrap 5.3.3, 
 
 Add your GitHub Pages URL here after deployment:
 
-`https://YOUR-USERNAME.github.io/YOUR-REPOSITORY/`
+`https://shazai.github.io/portfolio-website/`
 
 ## Features
 
@@ -36,18 +36,10 @@ refined_portfolio_bootstrap/
 │   └── style.css
 ├── images/
 │   └── profile-placeholder.svg
+│   └── profile.jph
 ├── README.md
-└── DEPLOYMENT.md
+
 ```
-
-## Customize Before Submission
-
-1. Replace `username` in the GitHub and LinkedIn links with your actual account details.
-2. Replace `images/profile-placeholder.svg` with your own profile photo when ready.
-3. Replace the two Future Project cards with real projects.
-4. Replace the Portfolio Live Demo placeholder with your GitHub Pages URL.
-5. Take desktop and mobile screenshots and store them in `images/` or a `docs/` folder.
-6. Add at least one screenshot to this README.
 
 ## Local Viewing
 
